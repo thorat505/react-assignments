@@ -1,0 +1,16 @@
+.employee-grid {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 20px;
+}
+
+.employee-grid th,
+.employee-grid td {
+  border: 1px solid #ccc;
+  padding: 10px;
+  text-align: left;
+}
+
+.employee-grid th {
+  background-color: #f4f4f4;
+}

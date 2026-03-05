@@ -1,0 +1,26 @@
+.employee-form {
+  width: 400px;
+  margin: auto;
+  font-family: Arial;
+}
+
+.employee-form div {
+  margin-bottom: 15px;
+}
+
+.employee-form input,
+.employee-form textarea {
+  width: 100%;
+  padding: 8px;
+  margin-top: 5px;
+}
+
+button {
+  padding: 8px 16px;
+  cursor: pointer;
+}
+
+.error {
+  color: red;
+  font-size: 14px;
+}
